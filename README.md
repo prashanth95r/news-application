@@ -1,2 +1,2 @@
 # news-application
-application developed in java using eclipse 
+An application developed using android SDK. 
