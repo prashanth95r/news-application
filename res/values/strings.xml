@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MVSR News</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="hello_world">Hello world!</string>
+    <string name ="about">MVSR Programmers Pride(MPP) is a sincere initiative to provide a self-sustained, sophisticated group of passionate software programmers. This programmers club provides a practical and creative approach to the real-world software development and thus inculcating an interest to the students. They work on new applications, websites, softwares, which solve the issues occurring in the general life.</string>
+	<string-array name="navigation_drawer_items_array">
+    <item>Home</item>
+    <item>Office</item>
+    <item>ECE</item>
+    <item>CSE</item>
+    <item>IT</item>
+    <item>EEE</item>
+    <item>CIVIL</item>
+    <item>MECH</item>
+    <item>AUTO</item>
+    <item>MBA</item>
+    <item>Placements</item>
+    <item>About</item>
+</string-array>
+
+	<array name="nav_drawer_icons">
+        <item>@drawable/homeicon</item>
+        <item>@drawable/office</item>
+        <item>@drawable/ece</item>
+        <item>@drawable/cse</item>
+        <item>@drawable/it</item>
+        <item>@drawable/eee</item>
+        <item>@drawable/civil</item>
+        <item>@drawable/mech</item>
+        <item>@drawable/auto</item>
+        <item>@drawable/mba</item>
+        <item>@drawable/placements</item>
+        <item>@drawable/abouticon</item>
+    </array>
+	
+	 <string name="desc_list_item_icon">Item Icon</string>
+	 
+	<string name="settings">Settings</string>
+</resources>
